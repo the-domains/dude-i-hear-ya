@@ -1,26 +1,26 @@
-color:
-  saturation: 0.4442153
-  brandStrength: 0.9173726
-  rhythmicContrast: 0.7873135
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  lightness: 0.838153
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.1585821
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.4244403
+color:
+  saturation: 0.7798507
+  brandStrength: 0.9173726
+  lightness: 0.5046642
+  brandColors:
+    - '#FFFFFF'
+    - '#E2B189'
+    - '#B76753'
+    - '#161B30'
+    - '#52607A'
+  rhythmicContrast: 0.02145522
+layout_spectrum: 0.775653
 name: 'Dude, I Hear Ya!'
